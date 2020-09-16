@@ -611,3 +611,52 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.16-20.35.37:327][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
 [2020.09.16-20.35.37:327][  0]LogContentStreaming: Texture pool size now 600 MB
 [2020.09.16-20.35.44:399][286]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.09.16-20.39.23:725][646]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2020.09.16-20.39.23:725][646]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.09.16-20.39.23:725][646]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2020.09.16-20.39.23:725][646]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.09.16-20.39.23:725][646]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2020.09.16-20.39.23:725][646]LogWindows: Warning: URL: C:\Users\Алексей\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.09.16-20.39.23:725][646]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2020.09.16-20.39.23:725][646]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.09.16-20.39.23:725][646]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2020.09.16-20.39.23:725][646]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.09.16-20.39.23:725][646]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2020.09.16-20.39.23:725][646]LogWindows: Warning: URL: C:\Users\Алексей\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.09.16-20.39.23:726][646]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2020.09.16-20.39.23:726][646]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.09.16-20.40.58:017][212]SourceControl: Source control is disabled
+[2020.09.16-20.41.00:169][294]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2020.09.16-20.41.00:169][294]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.09.16-20.41.00:170][294]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2020.09.16-20.41.00:170][294]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.09.16-20.41.00:170][294]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2020.09.16-20.41.00:170][294]LogWindows: Warning: URL: C:\Users\Алексей\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.09.16-20.41.00:170][294]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2020.09.16-20.41.00:170][294]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.09.16-20.41.00:170][294]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2020.09.16-20.41.00:170][294]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.09.16-20.41.00:170][294]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2020.09.16-20.41.00:170][294]LogWindows: Warning: URL: C:\Users\Алексей\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.09.16-20.41.00:170][294]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2020.09.16-20.41.00:170][294]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.09.16-20.41.11:593][440]SourceControl: Source control is disabled
+[2020.09.16-20.41.13:689][524]LogSlate: Window 'Source Control Login' being destroyed
+[2020.09.16-20.41.20:419][794]Cmd: DELETE
+[2020.09.16-20.41.20:420][794]Cmd: ACTOR DELETE
+[2020.09.16-20.41.20:510][794]LogEditorActor: Deleted Actor: PlayerStart
+[2020.09.16-20.41.20:562][794]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.09.16-20.41.20:564][794]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2020.09.16-20.41.23:678][858]LogSlate: Window 'Save Level As' being destroyed
+[2020.09.16-20.41.23:692][858]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.16-20.41.23:710][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Ready Games Unity/forGitHub/HomeWork_5/HW5/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.16-20.41.23:779][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.09.16-20.41.23:838][858]LogSavePackage: Moving '../../../../../../Ready Games Unity/forGitHub/HomeWork_5/HW5/Saved/NewMapE9FEC47046ED960BE39830BB75ED0CDB.tmp' to '../../../../../../Ready Games Unity/forGitHub/HomeWork_5/HW5/Content/NewMap.umap'
+[2020.09.16-20.41.23:861][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Ready Games Unity/forGitHub/HomeWork_5/HW5/Content/NewMap_BuiltData.uasset" SILENT=true
+[2020.09.16-20.41.23:951][858]LogSavePackage: Moving '../../../../../../Ready Games Unity/forGitHub/HomeWork_5/HW5/Saved/NewMap_BuiltDataB0F583E643994B0C0CFFEB982BDC851D.tmp' to '../../../../../../Ready Games Unity/forGitHub/HomeWork_5/HW5/Content/NewMap_BuiltData.uasset'
+[2020.09.16-20.41.23:961][858]LogFileHelpers: Saving map 'NewMap' took 0.277
+[2020.09.16-20.41.23:975][858]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.16-20.41.23:975][858]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2020.09.16-20.41.23:975][858]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
+[2020.09.16-20.41.23:984][858]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.16-20.41.27:377][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
